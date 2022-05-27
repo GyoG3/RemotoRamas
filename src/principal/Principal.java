@@ -22,7 +22,8 @@ public class Principal {
     }
     
     public double multiplicar (double a, double b){
-    return 1.0;
+        double r = a * b;
+        return r;
     }
     
 }
